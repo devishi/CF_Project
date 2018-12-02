@@ -1,8 +1,14 @@
 # Predicting your Soulmate
-The project has been done by Akarsha Sehwag(2015010) and Devishi Kesar(2015024).
 
-The DTI_pred algorithm implementation can be found in the ipython notebook titled "Baseline_DTI-Pred.ipynb" or "Baseline_DTI_Pred.ipynb" with colab, along with the baselines for the paper we have written.
+The project has been done by 
+- [Akarsha Sehwag(2015010)](https://github.com/aksh98) and 
+- [Devishi Kesar(2015024)](https://github.com/devishi).
 
-The PUCPI algorithm implementation can be found in the ipython notebook titled "PUCPI.ipynb"
+The DTI_pred algorithm implementation can be found in the ipython notebook titled [Baseline_DTI-Pred.ipynb](https://github.com/devishi/CF_Project/blob/master/Baseline_DTI_Pred.ipynb) and the PUCPI algorithm implementation can be found in the [PUPCI.ipynb](https://github.com/devishi/CF_Project/blob/master/PUCPI.ipynb) written in Google Colab IPython Notebooks.
+We've also implemented these baselines for the paper. i.e.
+- Singular Value Decomposition
+- Non-Negative Matrix Factorization
+- Normal Predictor
 
-The paper has been attached with the title: "Predicting your Soulmate".
+
+The Paper/Report is available here: ["Predicting your Soulmate"](https://github.com/devishi/CF_Project/blob/master/CF_ProjectReport.pdf).
