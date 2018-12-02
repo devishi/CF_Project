@@ -1,6 +1,6 @@
 # Predicting your Soulmate
 
-The DTI_pred algorithm implementation can be found in the ipython notebook titled [Baseline_DTI-Pred.ipynb](https://github.com/devishi/CF_Project/blob/master/Baseline_DTI_Pred.ipynb) and the PUCPI algorithm implementation can be found in the [PUPCI.ipynb](https://github.com/devishi/CF_Project/blob/master/PUCPI.ipynb) written in Google Colab IPython Notebooks.
+The DTI_pred algorithm implementation can be found in the ipython notebook titled [Baseline_DTI-Pred.ipynb](https://github.com/devishi/CF_Project/blob/master/Baseline_DTI_Pred.ipynb) and the PUCPI algorithm implementation can be found in the [PUCPI.ipynb](https://github.com/devishi/CF_Project/blob/master/PUCPI.ipynb) written in Google Colab IPython Notebooks.
 We've also implemented these baselines for the paper. i.e.
 - Singular Value Decomposition
 - Non-Negative Matrix Factorization
